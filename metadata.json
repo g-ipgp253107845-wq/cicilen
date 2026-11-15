@@ -1,0 +1,6 @@
+{
+  "name": "Pulau Geometri — Matematik Tahun 5 (6.3 Perimeter & Luas)",
+  "description": "Portal pembelajaran interaktif Matematik Tahun 5 Bab 6 (SK 6.3, SP 6.3.1): Menentukan perimeter dan luas bentuk gabungan dua dimensi dalam Bahasa Melayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
